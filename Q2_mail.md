@@ -23,6 +23,9 @@ Could we schedule a quick chat to discuss these ideas further? I'm eager to hear
 
 Thanks for your partnership. Let's drive Atlan to greater success together.
 
+
 Bests,
+
 Paakhi Maheshwari
+
 Atlan

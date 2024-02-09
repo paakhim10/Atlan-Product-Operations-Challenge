@@ -18,8 +18,8 @@ Based on the provided information, here's how we can evaluate its success with r
 
     - **Atlan's Sentiments**: Does the feature unlock future opportunities that address Atlan's strategy for the future directly? *Example: Does AI Generation feature bring us clients that can be our long-term partners?*
 
-    -**Competitive Analysis**: After comparing our AI Data Generation feature with similar offerings from competitors, we can identify strengths, weaknesses, and opportunities for differentiation.
+    - **Competitive Analysis**: After comparing our AI Data Generation feature with similar offerings from competitors, we can identify strengths, weaknesses, and opportunities for differentiation.
 
-    -**Prediction in the market**: Identify the industry trends and emerging technologies to predict whether the feature will perform adeptly in the future. *Example: With the rise of AI, the AI Data Generation feature might scale better.*
+    - **Prediction in the market**: Identify the industry trends and emerging technologies to predict whether the feature will perform adeptly in the future. *Example: With the rise of AI, the AI Data Generation feature might scale better.*
 
 By analyzing these factors comprehensively, we can gain a holistic understanding of the success of the AI Data Generation feature and identify opportunities for further optimization and growth.
